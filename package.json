@@ -1,0 +1,11 @@
+{
+  "name": "bluefolder",
+  "version": "0.0.1",
+  "description": "API with simple consults for the BlueFolder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Marinelli",
+  "license": "ISC"
+}
